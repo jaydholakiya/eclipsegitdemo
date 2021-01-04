@@ -7,7 +7,7 @@ public class MultiThread extends Thread
 		int i;
 		for(i=0;i<=10;i++)
 		{
-			System.out.println(">> from 1 -> " + i);
+			System.out.println(">> from 1 ->-------- " + i);
 		}
 	}
 }
